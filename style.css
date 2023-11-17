@@ -16,4 +16,10 @@
 	padding-right: 30px
 }
 
-background-image:(assets/assets/Capture d’écran 2023-11-17 à 17.05.17.png);
+
+body {
+    color:black;
+    background-color:white;
+    background-image:url(assets/Capture\ d’écran\ 2023-11-17\ à\ 17.05.17.png);
+    background-repeat:no-repeat;
+    }
