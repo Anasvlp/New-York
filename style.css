@@ -1,25 +1,4 @@
-.vert-center {
-	position: absolute !important;
-	top: 0;
-	bottom: 0;
-	right: 0;
-	left: 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.vert-center p {
-	font-size: 24px;
-	color: #fff;
-	text-align: center;
-	padding-left: 30px;
-	padding-right: 30px
-}
-
 
 body {
-    color:black;
-    background-color:white;
     background-image:url(assets/Capture\ d’écran\ 2023-11-17\ à\ 17.05.17.png);
-    background-repeat:no-repeat;
     }
